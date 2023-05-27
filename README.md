@@ -50,27 +50,27 @@ Worked mostly in big projects, such as [SimilarWeb](https://www.similarweb.com/)
 
 ### Programming
 
-**Client-side:** `JavaScript (ES5, ES6+) + jQuery`, `Typescript`, `Vue(2,3)/Nuxt`
+**Client-side:** `Typescript`, `Vue(2,3)/Nuxt`, `JavaScript (ES5, ES6+) + jQuery` 
 
 **Servier-side:** `Nodejs`, `php`
 
 **Unit tests:** `mocha`, `jest`
 
-**Functional test:** `Storybook + puppeteer`, `Storybook + Playwright`
+**Functional test:** `Storybook + Playwright`, `Storybook + puppeteer`, 
 
 ---
 
-**Packages control:** `npm` | `bower` | `yarn` | `pnpm`
+**Packages control:** `pnpm` | `yarn` | `npm` | `bower` 
 
-**CI/CD:** `Jenkins`, `pipelines`, `git actions`, `docker`
+**CI/CD:**  `docker`, `Jenkins`, `pipelines`, `git actions`,
 
-**Project builders:** `Maven` | `Grunt` | `Gulp` | `Rake` | `Webpack` | `Rollup` | `Vite`
+**Project builders:**  `Vite` | `Rollup` | `Webpack` | `Gulp` | `Rake` | `Maven` 
 
 ---
 
-**Templating:** `Handlebars/Mustache` | `HTML5` | `pug/jade` | `jsx`
+**Templating:** `HTML5` | `pug/jade` | `jsx` | `Handlebars/Mustache` 
 
-**Styles:** `CSS3`,`LESS`, `SASS`, `SCSS`, `Canvas/SVG`
+**Styles:** `SCSS/SASS` | `CSS3` | `LESS` | `Canvas/SVG` 
 
 
 ### Documentation
