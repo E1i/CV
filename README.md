@@ -2,7 +2,7 @@
 
 |                                              |              | 
 | ---------------------------------------------|  ----------- |
-| ![Profile Photo!](./assets/profile_photo.png "Eli photo") | **Favorite Quote:** `Talk is cheap. Show me the code.` <br> **Age:** `33 y.o.`<br> **Pronouns:** `he/him/his` <br> **Name pronunciation:** `'EE-lie'` <br> **Email me at** ***[e\*\*\*\*\*\*\*\*\*\*v@gmail.com](<mailto:eli.tabrisov@gmail.com>)*** <br> **Hit me in** ***[LinkedIn](https://www.linkedin.com/in/elitab/)*** <br> **Text me in** ***[Telegram](https://t.me/EliTabrisov)***  |
+| ![Profile Photo!](./assets/profile_photo.png "Eli photo") | **Favorite Quote:** `Talk is cheap. Show me the code.` <br> **Age:** `35 y.o.`<br> **Pronouns:** `he/him/his` <br> **Name pronunciation:** `'EE-lie'` <br> **Email me at** ***[e\*\*\*\*\*\*\*\*\*\*v@gmail.com](<mailto:eli.tabrisov@gmail.com>)*** <br> **Hit me in** ***[LinkedIn](https://www.linkedin.com/in/elitab/)*** <br> **Text me in** ***[Telegram](https://t.me/EliTabrisov)***  |
 
 ---
 
@@ -15,6 +15,8 @@ Introduced in more than 5 live e-commerce projects. High experience in cross-bro
 Took a part in the development of `Addons Framework`, which company used to create cross-browser cashback solutions before [WebExtensions API](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) has been created, and other private libraries particularly bringing [FLUX](https://www.qsstechnosoft.com/blog/how-flux-architecture-used-in-web-development/#:~:text=A%20Flux%20is%20an%20architectural,React%20to%20enhance%20their%20scalability.) to browser web extensions and `plugins` to project builders such as [webpack](https://webpack.js.org/) and [vite](https://vitejs.dev/)  
 
 Worked mostly in big projects, such as [SimilarWeb](https://www.similarweb.com/) as part of international & remote teams on lead engineer positions. Most of them are still under non-disclosure agreement (NDA) :( 
+
+ Since late 2024, I have been engaged in prompt engineering and coding with AI assistants like GitHub Copilot and Cursor to enhance productivity and explore new stacks, cover existing fucntionality with tests, write technical documentation, and code refactoring.
 
 ---
 
@@ -50,13 +52,13 @@ Worked mostly in big projects, such as [SimilarWeb](https://www.similarweb.com/)
 
 ### Programming
 
-**Client-side:** `Typescript`, `Vue(2,3)/Nuxt`, `JavaScript (ES5, ES6+) + jQuery` 
+**Client-side:** `Typescript`, `Vue(2,3)/Nuxt`, `React/Next`, `JavaScript (ES5, ES6+) + jQuery` 
 
 **Servier-side:** `Nodejs`, `php`
 
-**Unit tests:** `mocha`, `jest`
+**Unit tests:** `vitest`, `mocha`, `jest`
 
-**Functional test:** `Storybook + Playwright`, `Storybook + puppeteer`, 
+**Functional test:** `Chromatic`, `Storybook + Playwright`, `Storybook + puppeteer`, 
 
 ---
 
@@ -68,9 +70,9 @@ Worked mostly in big projects, such as [SimilarWeb](https://www.similarweb.com/)
 
 ---
 
-**Templating:** `HTML5` | `pug/jade` | `jsx` | `Handlebars/Mustache` 
+**Templating:** `Astro`, `HTML5` | `pug/jade` | `jsx` | `Handlebars/Mustache` 
 
-**Styles:** `SCSS/SASS` | `CSS3` | `LESS` | `Canvas/SVG` 
+**Styles:** `TailwindCSS`, `SCSS/SASS` | `CSS3` | `LESS` | `Canvas/SVG` 
 
 
 ### Documentation
