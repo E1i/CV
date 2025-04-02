@@ -16,7 +16,7 @@ Took a part in the development of `Addons Framework`, which company used to crea
 
 Worked mostly in big projects, such as [SimilarWeb](https://www.similarweb.com/) as part of international & remote teams on lead engineer positions. Most of them are still under non-disclosure agreement (NDA) :( 
 
- Since late 2024, I have been engaged in prompt engineering and coding with AI assistants like GitHub Copilot and Cursor to enhance productivity and explore new stacks, cover existing fucntionality with tests, write technical documentation, and code refactoring.
+ Since late `2024`, I have been engaged in prompt engineering and coding with AI assistants like `GitHub Copilot` and `Cursor` to enhance productivity and explore new stacks, cover existing fucntionality with tests, write technical documentation, and code refactoring.
 
 ---
 
